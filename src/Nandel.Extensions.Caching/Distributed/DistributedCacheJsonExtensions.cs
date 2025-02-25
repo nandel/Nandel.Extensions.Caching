@@ -1,7 +1,9 @@
 ﻿using System.Text.Json;
-using Microsoft.Extensions.Caching.Distributed;
 
-namespace Nandel.Extensions.Caching.Distributed;
+// ReSharper disable once CheckNamespace
+// We want to add the extensions to the default named by Microsoft
+// So it's easier to use :)
+namespace Microsoft.Extensions.Caching.Distributed;
 
 public static class DistributedCacheJsonExtensions
 {

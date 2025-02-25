@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nandel.Extensions.Caching", "src\Nandel.Extensions.Caching\Nandel.Extensions.Caching.csproj", "{59578F5E-9163-40B2-B5B4-10AE315A96B0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{4C897E80-0B4F-46C7-92AD-031742FFB743}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59578F5E-9163-40B2-B5B4-10AE315A96B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59578F5E-9163-40B2-B5B4-10AE315A96B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59578F5E-9163-40B2-B5B4-10AE315A96B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59578F5E-9163-40B2-B5B4-10AE315A96B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{59578F5E-9163-40B2-B5B4-10AE315A96B0} = {4C897E80-0B4F-46C7-92AD-031742FFB743}
+	EndGlobalSection
+EndGlobal
