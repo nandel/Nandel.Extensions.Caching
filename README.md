@@ -1,1 +1,1 @@
-# Nandel.Extensions.DistributedCache
+# Nandel.Extensions.Caching
